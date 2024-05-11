@@ -2,7 +2,7 @@
 
 Greetings, My name is Diego Ruiz and I'm currently attending California State University, Fullerton and my major is Computer Engineering.
 
-## CPSC 120L Projects
+## Computer Science Projects
 
 My GitHub page is https://github.com/BTdiego0
 
