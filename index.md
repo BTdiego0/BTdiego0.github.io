@@ -1,5 +1,7 @@
-# Diego Ruiz's Portifolio
+# Diego Ruiz's Portfolio
 
-I am a computer engineering major and I would like to graduate in 2028 and I love dogs.
+Greetings, My name is Diego Ruiz and I'm currently attending California State University, Fullerton. My major is Computer Engineering.
 
 ## CPSC 120L Labs I Enjoyed The Most
+
+My GitHub page is https://github.com/BTdiego0
